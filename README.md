@@ -15,7 +15,7 @@ Das Briefing der Auftraggeberin ist unter folgendem Link einsehbar: TBD
 * Benchmarkanalyse.
 * Grobe Informationsarchitektur der Seite.
 * Moodboard in welche Richtung der Neuauftritt gehen könnte.
-* 2-3 Seiten, die grob ausgestaltet sind, mit Fokus auf Barrierefreiheit.
+* 2 Seiten, die grob ausgestaltet sind, mit Fokus auf Barrierefreiheit. (Home und eine Detailseite)
 * Präsentation vor der Klasse mit Fokus auf Massnahmen für die Barrierefreiheit. Dauer ca. 15-20 Minuten.
 * Pitchpräsentation **13.03.2021** Nachmittag
 * Das gesamte Material wird pro Gruppe in diesem Repo. alls Issue vor Beginn der Präsentationen abgegeben.
