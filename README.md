@@ -12,7 +12,7 @@ Die [Universität Zürich](https://www.uzh.ch/de.html) als Auftragsgeberin, möc
 Das Briefing der Auftraggeberin ist unter folgendem Link einsehbar: TBD
 
 ## Abgabe
-
+* Benchmarkanalyse.
 * Informationsarchitektur der Seite.
 * Moodboard in welche Richtung der Neuauftritt gehen könnte.
 * 2-3 Seiten, die grob ausgestaltet sind, mit Fokus auf Barrierefreiheit.
