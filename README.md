@@ -15,7 +15,7 @@ Das Briefing der Auftraggeberin ist unter folgendem Link einsehbar: https://docs
 * Benchmarkanalyse.
 * Grobe Informationsarchitektur der Seite.
 * Moodboard in welche Richtung der Neuauftritt gehen könnte.
-* 2 Seiten (Home und [Detailseite Bachelorstudiengang Kommunikationswissenschaft und
+* 2 Seiten ([Home](https://www.uzh.ch/de.html) und [Detailseite Bachelorstudiengang Kommunikationswissenschaft und
 Medienforschung](http://www.degrees.uzh.ch/de/bachelor/50000007/50890576/50904125), die grob ausgestaltet sind, mit Fokus auf Barrierefreiheit. 
 Es muss nur der Desktop-Breakpoint beachtet werden.
 * Präsentation vor der Klasse mit Fokus auf Massnahmen für die Barrierefreiheit. Dauer ca. 15-20 Minuten.
