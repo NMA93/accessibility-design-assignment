@@ -29,6 +29,7 @@ Das Briefing der Auftraggeberin ist unter folgendem Link einsehbar: TBD
 | Es wurde im notwendigen Masse auf Accessibility geachtet und diese der Ausgangslage entsprechend angepasst    |
 | Grundlegende Accessibulity-Standards wurden eingehalten |
 | Die Balance zwischen Design und Accesibility wurde gefunden |
+| Die massnahmen um die Barrierenfreiheit zu gewährleisten wurden in der Präsentation hervorgehoben |
 | Die Präsentation enthält alle geforderten Abgaben |
 | Die Präsentation ist stimmig, flüssig und bewegt sich im geforderten Zeitrahmen |
 | Die Abgagbe erfolgte rechtzeitig und komplett |
