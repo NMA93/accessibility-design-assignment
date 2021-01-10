@@ -17,8 +17,18 @@ Das Briefing der Auftraggeberin ist unter folgendem Link einsehbar: TBD
 * Moodboard in welche Richtung der Neuauftritt gehen könnte.
 * 2-3 Seiten, die grob ausgestaltet sind, mit Fokus auf Barrierefreiheit.
 * Präsentation vor der Klasse mit Fokus auf Massnahmen für die Barrierefreiheit. Dauer ca. 15-20 Minuten.
+* Pitchpräsentation **13.03.2021** Nachmittag
+* Das gesammte Material wird pro Gruppe in diesem Repo. alls Issue vor Beginn der Präsentationen abgegeben.
 
 
 ## Bewertungskriterien
 
-* TBD
+| Kriterium     |
+| ------------- |
+| Die gewählte Informationsarchitektur ist nachvollziehbar und erfüllt die Accessibility-Standards     |
+| Es wurde im notwendigen Masse auf Accessibility geachtet und diese der Ausgangslage entsprechend angepasst    |
+| Grundlegende Accessibulity-Standards wurden eingehalten |
+| Die Balance zwischen Design und Accesibility wurde gefunden |
+| Die Präsentation enthält alle geforderten Abgaben |
+| Die Präsentation ist stimmig, flüssig und bewegt sich im geforderten Zeitrahmen |
+| Die Abgagbe erfolgte rechtzeitig und komplett |
