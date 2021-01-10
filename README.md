@@ -17,7 +17,7 @@ Das Briefing der Auftraggeberin ist unter folgendem Link verfügbar: Lion Share 
 * ([Home inkl. Navigation](https://www.uzh.ch/de.html) und zwei Seiten, die eurer Meinung nach die grössten Accessibility-Hürden beinhalten. Grob ausgestaltet (Designmoods) mit Fokus auf Barrierefreiheit. Es muss nur der Desktop-Breakpoint beachtet werden.
 * Präsentation vor der Klasse mit Fokus auf Massnahmen für die Barrierefreiheit. Dauer ca. 15-20 Minuten.
 * Pitchpräsentation **13.03.2021** Nachmittag
-* Das gesamte Material wird pro Gruppe in diesem Repo. alls Issue vor Beginn der Präsentationen abgegeben.
+* Das gesamte Material wird pro Gruppe in diesem Repo. als Issue vor Beginn der Präsentationen abgegeben.
 
 
 ## Bewertungskriterien
