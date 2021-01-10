@@ -5,7 +5,7 @@ Aufgabe HFIAD2019
 
 ## Ausgangslage
 
-Die [Universität Zürich](https://www.uzh.ch/de.html) als Auftragsgeberin, möchte ihre Website komplett überarbeiten und diese technisch und visuell den aktuellen Standards anpassen. In diesem Zuge soll der Accessibility Standard mindestens auf ein AA-Level angehoben werden. Vor dem eignetlichen Relaunch, möchte die Universität Zürich eine Review in Bezug auf Accessibility durchführen lassen und schon mögliche Designmoods der zukünftigen Website sehen. Der Relaunch ist öffentlich ausgeschrieben. Die Klasse wird in vier Gruppen aufgeteilt, welche jeweils eine Agentur repräsentieren. Das Ziel ist es, den Pitch zu gewinnen.
+Die [Universität Zürich](https://www.uzh.ch/de.html) als Auftragsgeberin, möchte ihre Website komplett überarbeiten und diese technisch und visuell den aktuellen Standards anpassen. In diesem Zuge soll der Accessibility Standard mindestens auf ein AA-Level angehoben werden. Vor dem eigentlichen Relaunch, möchte die Universität Zürich eine Review in Bezug auf Accessibility durchführen lassen und schon mögliche Designmoods der zukünftigen Website sehen. Der Relaunch ist öffentlich ausgeschrieben. Die Klasse wird in vier Gruppen aufgeteilt, welche jeweils eine Agentur repräsentieren. Das Ziel ist es, den Pitch zu gewinnen.
 
 ## Briefing
 
@@ -14,9 +14,7 @@ Das Briefing der Auftraggeberin ist unter folgendem Link verfügbar: Lion Share 
 ## Abgabe
 * Benchmarkanalyse.
 * Accessibility Review der aktuellen Seite.
-* 2 Seiten ([Home](https://www.uzh.ch/de.html) und [Detailseite Bachelorstudiengang Kommunikationswissenschaft und
-Medienforschung](http://www.degrees.uzh.ch/de/bachelor/50000007/50890576/50904125), die grob ausgestaltet sind, mit Fokus auf Barrierefreiheit. 
-Es muss nur der Desktop-Breakpoint beachtet werden.
+* ([Home inkl. Navigation](https://www.uzh.ch/de.html) und zwei Seiten, die eurer Meinung nach die grössten Accessibility-Hürden beinhalten. Grob ausgestaltet (Designmoods) mit Fokus auf Barrierefreiheit. Es muss nur der Desktop-Breakpoint beachtet werden.
 * Präsentation vor der Klasse mit Fokus auf Massnahmen für die Barrierefreiheit. Dauer ca. 15-20 Minuten.
 * Pitchpräsentation **13.03.2021** Nachmittag
 * Das gesamte Material wird pro Gruppe in diesem Repo. alls Issue vor Beginn der Präsentationen abgegeben.
