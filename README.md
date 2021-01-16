@@ -9,7 +9,7 @@ Die [Universität Zürich](https://www.uzh.ch/de.html) als Auftragsgeberin, möc
 
 ## Briefing
 
-Das Briefing der Auftraggeberin ist unter folgendem Link verfügbar: Lion Share TBD
+Das Briefing der Auftraggeberin ist in Slack verfügbar.
 
 ## Abgabe
 * Benchmarkanalyse.
