@@ -33,3 +33,12 @@ Für Home und die Navigation muss zusätzlich der Breakpoint für Mobile beachte
 | Die Präsentation enthält alle geforderten Abgaben |
 | Die Präsentation ist stimmig, flüssig und bewegt sich im geforderten Zeitrahmen |
 | Die Abgabe erfolgte rechtzeitig und komplett |
+
+## Hilfreiche Links
+
+ ([Accessibility Checkliste](https://a11y.digitaleschweiz.swiss/de/checklist)
+ ([Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
+ ([axe - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
+ 
+ 
+ 
