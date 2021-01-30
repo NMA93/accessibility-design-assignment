@@ -36,9 +36,9 @@ Für Home und die Navigation muss zusätzlich der Breakpoint für Mobile beachte
 
 ## Hilfreiche Links
 
- ([Accessibility Checkliste](https://a11y.digitaleschweiz.swiss/de/checklist)
- ([Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
- ([axe - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
+ * [Accessibility Checkliste](https://a11y.digitaleschweiz.swiss/de/checklist)
+ * [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
+ * [axe - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
  
  
  
