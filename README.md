@@ -1,5 +1,5 @@
 # accessibility-design-assignment
-Aufgabe HFIAD2019
+Aufgabe HFIAD2021
 
 ***
 
@@ -16,7 +16,7 @@ Das Briefing der Auftraggeberin ist auf Teams verfügbar.
 * Accessibility Review der aktuellen Seite.
 * Grobe Designmoods mit Fokus auf Barrierefreiheit. ([Home inkl. Navigation](https://www.uzh.ch/de.html)) und zwei Seiten, die eurer Meinung nach die grössten Accessibility-Hürden beinhalten. Für Home und die Navigation muss zusätzlich der Breakpoint für Mobile beachtet werden. Die übrigen Seiten können für Desktop gestaltet werden.
 * Präsentation vor der Klasse mit Fokus auf Massnahmen für die Barrierefreiheit. Dauer ca. 15-20 Minuten.
-* Pitchpräsentation am **13.03.2021** am Nachmittag
+* Pitchpräsentation am **03.09.2022** am Nachmittag
 * Das gesamte Material wird pro Gruppe in diesem Repo. als Issue vor Beginn der Präsentationen abgegeben.
 
 
