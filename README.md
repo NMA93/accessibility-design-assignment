@@ -34,7 +34,7 @@ Das Briefing der Auftraggeberin ist auf Teams verfügbar.
 
 ## Hilfreiche Links
 
- * [Accessibility Checkliste](https://a11y.digitaleschweiz.swiss/de/checklist)
+ * [Accessibility Checkliste](https://a11y.digitaldialog.swiss/)
  * [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
  * [axe - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
  
